@@ -26,6 +26,12 @@ The file explorer is accessible using the button in left corner of the navigatio
 
 > **NOTE :** This library is made for React application. May not work perfectly for other use cases
 
+Install the package using npm
+
+```bash
+npm install -d @thadathilsinan/zoomable
+```
+
 Import the module.
 
 ```javascript
