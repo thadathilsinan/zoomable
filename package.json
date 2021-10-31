@@ -1,0 +1,25 @@
+{
+  "name": "zoomable",
+  "version": "1.0.0",
+  "description": "Make any container's contents zoomable.",
+  "main": "initializer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thadathilsinan/zoomable.git"
+  },
+  "keywords": [
+    "zoom",
+    "pan",
+    "container",
+    "scale"
+  ],
+  "author": "thadathilsinan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thadathilsinan/zoomable/issues"
+  },
+  "homepage": "https://github.com/thadathilsinan/zoomable#readme"
+}
