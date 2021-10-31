@@ -1,8 +1,8 @@
 {
-  "name": "zoomable",
+  "name": "@thadathilsinan/zoomable",
   "version": "1.0.0",
-  "description": "Make any container's contents zoomable.",
-  "main": "initializer.js",
+  "description": "Make any container inner contents zoomable.",
+  "main": "initializer",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,10 +13,14 @@
   "keywords": [
     "zoom",
     "pan",
-    "container",
-    "scale"
+    "scale",
+    "zoomable",
+    "large",
+    "html",
+    "js",
+    "css"
   ],
-  "author": "thadathilsinan",
+  "author": "thadathilsinan <thadathilsinan@gmail.com> (https://github.com/thadathilsinan)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/thadathilsinan/zoomable/issues"
