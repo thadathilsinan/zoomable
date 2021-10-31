@@ -14,7 +14,7 @@ export default function initializeZoomable(
     scaleSensitivity: scaleSensitivity,
   });
 
-  container.children[0].style.transformOrigin = `${0}px ${0}px`;
+  container.children[0].style.transformOrigin = `0px 0px`;
 
   container.addEventListener("wheel", (event) => {
     if (!event.ctrlKey) {

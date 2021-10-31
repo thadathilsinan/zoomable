@@ -29,7 +29,7 @@ The file explorer is accessible using the button in left corner of the navigatio
 Install the package using npm
 
 ```bash
-npm install -d @thadathilsinan/zoomable
+npm install @thadathilsinan/zoomable
 ```
 
 Import the module.
