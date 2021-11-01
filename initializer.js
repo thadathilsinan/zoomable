@@ -33,6 +33,9 @@ export default function initializeZoomable(
       if (container.style.cursor !== "grabbing") {
         container.style.cursor = "grab";
       }
+
+      container.style.userSelect = "none";
+
       container.addEventListener("mousedown", instance.pan.mouseDownHandler);
     }
 

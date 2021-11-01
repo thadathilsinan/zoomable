@@ -1,6 +1,6 @@
 {
   "name": "@thadathilsinan/zoomable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make any container inner contents zoomable.",
   "main": "initializer",
   "scripts": {
